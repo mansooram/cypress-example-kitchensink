@@ -1,3 +1,6 @@
+https://travis-ci.com/mansooram/kitchen-new.svg?branch=master
+
+
 # Kitchen Sink [![renovate-app badge][renovate-badge]][renovate-app]
 
 ![kitchensink](https://cloud.githubusercontent.com/assets/1268976/14084252/e309e370-f4e7-11e5-9562-24f516563ac9.gif)
