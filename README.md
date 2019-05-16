@@ -1,5 +1,4 @@
-https://travis-ci.com/mansooram/kitchen-new.svg?branch=master
-
+[![Build Status](https://travis-ci.com/mansooram/kitchen-new.svg?branch=master)](https://travis-ci.com/mansooram/kitchen-new)
 
 # Kitchen Sink [![renovate-app badge][renovate-badge]][renovate-app]
 
